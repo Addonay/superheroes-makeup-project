@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+sqlalchemy
+datetime
+flask-migrate
+flask_cors
+gunicorn
+psycopg2-binary
